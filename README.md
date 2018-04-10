@@ -19,3 +19,13 @@ What we did:
   - Controlled servo motor with gestures from Myo
   - Trained Myo on custom gestures
   - Triggered Myo vibration feedback from FSR signal threshold
+
+References:
+- Portnova AA et al (2018) Design of a 3D-printed, open-source wrist-driven orthosis for individuals with spinal cord injury. https://doi.org/10.1371/journal.pone.0193106
+- Myo Band python linux open-source SDK: 
+    https://github.com/dzhu/myo-raw 
+    https://github.com/Ramir0/Myo4Linux
+- RaspberryPi open-source libraries used:
+    https://pypi.python.org/pypi/RPi.GPIO (pin control)
+    http://abyz.me.uk/rpi/pigpio/ (PWM pin control)
+    https://www.spinalcord.com/quadriplegia-tetraplegia
