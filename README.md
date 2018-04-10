@@ -7,9 +7,9 @@ The Myo controlled WDO is comprised of major components: 3D printed WDO, Myo arm
 
 Motivation: 3D printing movement in consumer market and academia to develop prosthetics and orthoses in open-source format
 
-Goal: Bring additional functionality to purely mechanical assistive devicecs with mechatronics: myoelectric inputs and haptic feedback
+Goal: Bring additional functionality to purely mechanical assistive devices with mechatronics: myoelectric inputs and haptic feedback
 
-Case study: Modify WDO to incorporate (1) finger lift functionality so user can interface with touchscreeen devices by independently lifting the index finger and (2) grip force feedback for grip strength through haptic. 
+Case study: Modify WDO to incorporate (1) finger lift functionality so user can interface with touchscreen devices by independently lifting the index finger and (2) grip force feedback for grip strength through haptic. 
 
 What we did: 
   - Downloaded open-source SolidWorks files produced by Steele Lab
