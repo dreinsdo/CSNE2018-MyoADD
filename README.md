@@ -1,5 +1,5 @@
 # CSNE2018-MyoADD
-Wrist driven orthosis (WDO) acontrolled by Myo and RPi, project for CSNE Hackathon 2018.
+Wrist driven orthosis (WDO) controlled by Myo and RPi 'MyoADD', project for CSNE Hackathon 2018.
 
 This repository contains the work developed during the CSNE hackathon 2018. Event description: The CSNE Hackathon is an annual, extended weekend-long event that takes place in Seattle, WA. Local and out-of-state participants hack away with cool technology and come up with prototypes for neural engineering solutions.
 
