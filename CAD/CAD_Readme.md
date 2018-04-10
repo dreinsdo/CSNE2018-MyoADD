@@ -1,0 +1,2 @@
+This folder contains SolidWorks filed used to generate the CAD files for the device. This is based on the following CAD: 
+https://pinshape.com/items/25313-3d-printed-3d-printed-wrist-driven-orthosis-wdo.
