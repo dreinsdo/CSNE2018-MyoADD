@@ -5,7 +5,7 @@ This repository contains the work developed during the CSNE hackathon 2018. Even
 
 The Myo controlled WDO is comprised of major components: 3D printed WDO, Myo armband by Thalmic Labs, and Raspberry Pi. This repository does not provide detail necessary to construct the mechatronic WDO, however contains many of the source files used to produce the prototype.
 
-Motivation: 3D printing movement in consumer market and academia to develop prosthetics and orthoses in open-source format
+Motivation: 3D printing movement in consumer market and academia to develop prosthetics and orthoses in open-source format.
 
 Goal: Bring additional functionality to purely mechanical assistive devices with mechatronics: myoelectric inputs and haptic feedback
 
@@ -19,6 +19,8 @@ What we did:
   - Controlled servo motor with gestures from Myo
   - Trained Myo on custom gestures
   - Triggered Myo vibration feedback from FSR signal threshold
+
+Where we would like this to go: Simple functionality (index finger lift, and FSR haptic feedback) was incorporated into the WDO due to time constraints of the weekend-long event. This project served as a case study for assessing the feasibility of implementing open source Myo and Rpi into an open source mechanical designs. We hope for additional microcontroller implementations and mechanical embodiments of other prosthetics and orthoses that allow for additional degrees of freedom, positional changes, control, etc. to help those with unique abilities to accomplish activities of daily living. We also see opportunity in app development for tuning and usage data collection to fuel the immense amount of data required to inform the development of smarter, predictive prosthetics and orthoses. 
 
 References:
 - Portnova AA et al (2018) Design of a 3D-printed, open-source wrist-driven orthosis for individuals with spinal cord injury. https://doi.org/10.1371/journal.pone.0193106
