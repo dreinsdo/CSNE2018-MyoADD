@@ -9,7 +9,7 @@ Motivation: 3D printing movement in consumer market and academia to develop pros
 
 Goal: Bring additional functionality to purely mechanical assistive devices with mechatronics: myoelectric inputs and haptic feedback
 
-Case study: Modify WDO to incorporate (1) finger lift functionality so user can interface with touchscreen devices by independently lifting the index finger and (2) grip force feedback for grip strength through haptic. 
+Case study: Modify WDO to incorporate (1) finger lift functionality so users can interface with touchscreen devices by independently lifting the index finger and (2) grip force feedback for grip strength through haptic feedback. 
 
 What we did: 
   - Downloaded open-source SolidWorks files produced by Steele Lab
